@@ -9,3 +9,4 @@ D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\ne
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.sourcelink.json

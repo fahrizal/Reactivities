@@ -13,3 +13,4 @@ D:\Udemy\Complete Guide to building an app\demo\Reactivities\Persistence\obj\Deb
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

@@ -37,3 +37,4 @@ D:\Udemy\Complete Guide to building an app\demo\Reactivities\API\obj\Debug\net8.
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\API\obj\Debug\net8.0\API.pdb
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\API\obj\Debug\net8.0\ref\API.dll
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\API\obj\Debug\net8.0\API.sourcelink.json

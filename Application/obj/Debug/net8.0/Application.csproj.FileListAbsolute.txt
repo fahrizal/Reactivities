@@ -15,3 +15,4 @@ D:\Udemy\Complete Guide to building an app\demo\Reactivities\Application\obj\Deb
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\Application\obj\Debug\net8.0\refint\Application.dll
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\Application\obj\Debug\net8.0\Application.pdb
 D:\Udemy\Complete Guide to building an app\demo\Reactivities\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Application\obj\Debug\net8.0\Application.sourcelink.json
