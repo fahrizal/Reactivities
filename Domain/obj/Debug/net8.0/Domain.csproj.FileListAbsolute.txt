@@ -1,0 +1,11 @@
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\bin\Debug\net8.0\Domain.dll
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Udemy\Complete Guide to building an app\demo\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
